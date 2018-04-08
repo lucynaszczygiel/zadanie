@@ -28,12 +28,12 @@ background-image: url("wiezyca-szczyt.jpg");
 
 .four {
 grid-area: 5 / 3 / 7 / 6;
-background-color: zadanie/docs/las.jpg
+background-image: url("las.jpg");
 }
 
 .five {
 grid-area: 4 / 3 / 5 / 4;
-background-color: #dd0000;
+background-image: url("las.jpg");
 }
 
 .main > div {
